@@ -1,0 +1,56 @@
+{
+  "SUNUCU": {
+    "GUILD": "1072846602642919516",
+    "GUILD_NAME": "xD",
+     "TELEGRAM": true,
+     "NUMBER": "+12024463369",
+     "SMS": true,
+    "VoiceChannelID": "1078479794695585862"
+  },
+        "_rooter": {
+"rooters": ["719117042904727635"]
+},
+  "TOKENLER": {
+    "Statistics": "",
+    "Jollity":"",
+    "ORİON": "",
+    "Intanfry": "",
+    "AUXLİARY": "",
+
+    "FIREWALL": {
+   
+      "FIREWALL_ONE": "",
+      "FIREWALL_TWO": "",
+      "FIREWALL_THREE": "",
+      "FIREWALL_FOUR": "",
+      "DISTS": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "WELCOME": {
+      "Active": false,
+      "WELCOMES": [],
+      "WELCOME_CHANNELS": []
+    }
+  },
+  "botSettings": {
+    "Prefixs": [
+      "."
+    ]
+  },
+
+  "botStatus": {
+    "Status": "ONLINE",
+    "Name": "✶ ANANIN SUNUCUSU CREΛTED BY CΛRTEL",
+    "Url": "https://twitch.tv/cârtel",
+    "type": "STREAMING"
+  },
+  "Database": {
+    "Active": true,
+    "MongoURL": ""
+  }
+
+
+}
